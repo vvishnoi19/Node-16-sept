@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lyell",
+    "last_name": "Broggetti",
+    "email": "lbroggetti0@tumblr.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Garry",
+    "last_name": "Dunster",
+    "email": "gdunster1@dagondesign.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Maggee",
+    "last_name": "Lundbeck",
+    "email": "mlundbeck2@plala.or.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Griff",
+    "last_name": "Sear",
+    "email": "gsear3@vkontakte.ru",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Weider",
+    "last_name": "Primak",
+    "email": "wprimak4@godaddy.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Ardra",
+    "last_name": "Brookson",
+    "email": "abrookson5@constantcontact.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Dione",
+    "last_name": "Rosekilly",
+    "email": "drosekilly6@seesaa.net",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Kippy",
+    "last_name": "Frodsam",
+    "email": "kfrodsam7@apache.org",
+    "gender": "Male"
+  }
+]
